@@ -1,0 +1,49 @@
+In Chrome:
+----------
+
+1. Click the [vertical ellipsis] in the top right corner > Bookmarks > Import bookmarks and settings
+
+2. At the popup prompt, Expand the picklist and choose 'Bookmarks HTML file'
+Then click [Choose File] and browse to the 'MSFTCloudServices_Favorites_chrome.html' file
+
+Either double-click the file or select it and click the [Open] button, then click [Done]
+
+You may not see anything right away ... depends on other browser settings.
+
+If your bookmarks bar is not currently displayed, 
+A. Click the [vertical ellipsis] in the top right corner > Settings
+B. Go To Settings > Appearance and in the Appearance section, ensure the "Show bookmarks bar" option is enabled
+
+If existing bookmarks already fill up the bookmarks bar, click the [>] button at the right of the bookmarks bar 
+and locate the 'Frequently Used' and 'Reference' folders at the end of the list
+
+Drag and Drop the folders to be the first two items in the bookmarks bar, or locate them as you see fit.
+
+On first import, Chrome may create two extra folders that are not needed:
+Imported
+  Favorites Bar
+    Frequently Used
+    Reference
+Expand the folders, then drag and drop the 'Frequently Used' and 'Reference' folders to be the first two items in the bookmarks bar, or locate them as you see fit.
+Right-click the Imported folder and delete it
+
+Explore the shortcuts contained in the folders.
+
+
+After Import:
+-------------
+
+The 'Frequently Used' folder will contain two sub-folders
+'Cloud' contains a cloud-centric view of shortcuts. 
+	e.g. All Commercial links are in the Commercial sub-folder
+	Frequently Used > Cloud > Commercial > Power Platform Admin Center <https://aka.ms/ppac>
+	Frequently Used > Cloud > DoD > Power Platform Admin Center <https://aka.ms/ppacdod>
+
+'Service' contains a service-centric view of shortcuts. 
+	e.g. All Power Platform links are in the Power Platform sub-folder and are further grouped by Cloud
+	Frequently Used > Service > Power Platform > Power Platform Admin Center - Commercial <https://aka.ms/ppac>
+	Frequently Used > Service > Power Platform > Power Platform Admin Center - DoD <https://aka.ms/ppacdod>
+
+Keep whichever grouping is agreeable (Cloud or Service)
+Delete whichever grouping is disagreeable (Cloud or Service)
+Keep both if you like

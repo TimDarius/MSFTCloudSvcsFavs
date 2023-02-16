@@ -1,0 +1,51 @@
+In Firefox:
+----------
+
+Click the [hamburger button] in the top right corner > Bookmarks > Manage bookmarks
+At the popup window, select [^v Import and Backup] > 'Import bookmarks from HTML...'
+Then browse to the 'MSFTCloudServices_Favorites_firefox.html' file
+
+Either double-click the file or select it and click the [Open] button
+
+The Bookmarks have been imported into the Bookmarks Menu, not into the Bookarks toolbar so they won't show yet.
+This is by design per mozilla documentation: https://support.mozilla.org/en-US/kb/import-bookmarks-html-file
+
+Expand the Bookmarks Menu > Bookmarks toolbar
+Drag and Drop 'Frequently Used' to the Bookmarks Toolbar
+Drag and Drop 'Reference' to the Bookmarks Toolbar
+Right-click the Bookmarks Toolbar folder and select 'Delete Folder'
+Close the popup window
+
+You may not see anything right away. This depends on other browser settings.
+
+Close and reopen Firefox
+The 'Frequently Used' and 'Reference' folders should show in the Bookmarks toolbar
+
+If you do not see the bookmarks toolbar, 
+Click the [hamburger button] in the top right corner > Bookmarks > Show bookmarks toolbar
+
+If existing bookmarks already fill up the toolbar, click the [>] button at the right of the toolbar 
+and locate the 'Frequently Used' and 'Reference' folders at the end of the list
+
+Drag and Drop the folders to be the first two items in the bookmarks toolbar, or locate them as you see fit.
+
+Explore the shortcuts contained in the folders.
+
+
+After Import:
+-------------
+
+The 'Frequently Used' folder will contain two sub-folders
+'Cloud' contains a cloud-centric view of shortcuts. 
+	e.g. All Commercial links are in the Commercial sub-folder
+	Frequently Used > Cloud > Commercial > Power Platform Admin Center <https://aka.ms/ppac>
+	Frequently Used > Cloud > DoD > Power Platform Admin Center <https://aka.ms/ppacdod>
+
+'Service' contains a service-centric view of shortcuts. 
+	e.g. All Power Platform links are in the Power Platform sub-folder and are further grouped by Cloud
+	Frequently Used > Service > Power Platform > Power Platform Admin Center - Commercial <https://aka.ms/ppac>
+	Frequently Used > Service > Power Platform > Power Platform Admin Center - DoD <https://aka.ms/ppacdod>
+
+Keep whichever grouping is agreeable (Cloud or Service)
+Delete whichever grouping is disagreeable (Cloud or Service)
+Keep both if you like
