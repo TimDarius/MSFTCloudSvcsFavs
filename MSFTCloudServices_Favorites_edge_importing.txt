@@ -18,7 +18,7 @@ If you do not get an immediate prompt:
 		At the popup prompt, 
 		Expand the 'Import from' picklist and 
 		choose 'Favorites or bookmarks HTML file'
-Then click [Choose File] and browse to the 'MSFTCloudServices_Favorites.html' file
+Then click [Choose File] and browse to the 'MSFTCloudServices_Favorites_edge.html' file
 
 Either double-click the file or select it and click the [Open] button, then click [Done]
 
