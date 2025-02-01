@@ -1,0 +1,27 @@
+In Safari:
+--------
+
+Short version for now:
+
+Import the favorites file.
+Safari will not display icons, so none are included.
+Each import of the favorites file will create a date-stamped import folder with all of the folder structure nested below it.
+REarrange as needed.
+
+After Import:
+-------------
+
+The 'Frequently Used' folder will contain two sub-folders
+'Cloud' contains a cloud-centric view of shortcuts. 
+	e.g. All Commercial links are in the Commercial sub-folder
+	Frequently Used > Cloud > Commercial > Power Platform Admin Center <https://aka.ms/ppac>
+	Frequently Used > Cloud > DoD > Power Platform Admin Center <https://aka.ms/ppacdod>
+
+'Service' contains a service-centric view of shortcuts. 
+	e.g. All Power Platform links are in the Power Platform sub-folder and are further grouped by Cloud
+	Frequently Used > Service > Power Platform > Power Platform Admin Center - Commercial <https://aka.ms/ppac>
+	Frequently Used > Service > Power Platform > Power Platform Admin Center - DoD <https://aka.ms/ppacdod>
+
+Keep whichever grouping is agreeable (Cloud or Service)
+Delete whichever grouping is disagreeable (Cloud or Service)
+Keep both if you like
